@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("push --> test -->gitee");
         System.out.println("pull --> test -->gitee");
         System.out.println("gitlab");
+        System.out.println("wccccccccccccccccccc");
     }
 }
